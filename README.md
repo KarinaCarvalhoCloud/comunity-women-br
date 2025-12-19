@@ -1,11 +1,11 @@
-# 🌍 Comunity Women Brasil
+#  Comunity Women Brasil
 
-> **Status do Projeto:** 🚀 Em Desenvolvimento (Fase de Mapeamento)
+> **Status do Projeto:**  Em Desenvolvimento (Fase de Mapeamento)
 
 A **Comunity Women Brasil** é uma iniciativa estratégica liderada pelo **AK Cyber & AI Lab** com o objetivo de unir comunidades femininas de tecnologia e descentralizar o acesso ao conhecimento técnico de alto nível em todo o território nacional.
 
 ## 🎯 O Problema
-Atualmente, a grande maioria dos eventos, investimentos e workshops de **Cibersegurança, Cloud e IA** no Brasil estão concentrados no eixo Rio-São Paulo. Isso cria uma barreira geográfica para talentos incríveis que residem em outras regiões.
+Atualmente, a grande maioria dos eventos, investimentos e workshops de **Tecnologia** no Brasil estão concentrados no eixo Rio-São Paulo. Isso cria uma barreira geográfica para talentos incríveis que residem em outras regiões.
 
 ## 💡 Nossa Solução
 Criar uma rede de colaboração nacional onde líderes de comunidades de todos os estados possam:
